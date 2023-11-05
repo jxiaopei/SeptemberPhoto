@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  SeptemberPhoto
+
+  Created by Eric on 2023/9/20.
+  
+*/
+"Create Now" = "Create Now";
+"'User Agreement'" = "'User Agreement'";
+"'Privacy Policy'" = "'Privacy Policy'";
+"Agreement description" = "By commencing,as you agree to the 'User Agreement' and 'Privacy Policy'.";
+"Start Description" = "Pop art was an art movement that arose in the mid-20th century and emphasized mass culture and consumer society, featuring bright colors, flattened images, and common objects such as Andy Warhol's Mosaic portraits of celebrities and Campbell soup cans.";
+"Album" = "Album";
+"Photo" = "Camera";
+"History" = "History";
+"Deleted" = "Deleted";
+"History Description" = "History of photos from Ablum or Camera";
+"Deleted Description" = "Photos deleted in the last 30 days";
+"Saved all" = "Saved all";
+"Saved success!" = "Saved success!";
+"Camera Description" = "Please use a clear photo of your face, without any facial obstructions or multiple people";
+"Delete title" = "Clean out?";
+"Delete description" = "After deletion, it will not be recoverable. Are you sure?";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"Days" = "Days";
+"Camera alert" = "Please allow this App to access your albums in the Settings -- Privacy -- Albums option on your iPhone.";
+"Recover" = "Recover";

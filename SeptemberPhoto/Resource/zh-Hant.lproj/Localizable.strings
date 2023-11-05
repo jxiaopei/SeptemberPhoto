@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  SeptemberPhoto
+
+  Created by Eric on 2023/9/20.
+  
+*/
+"Create Now" = "立即制作";
+"'User Agreement'" = "《用户协议》";
+"'Privacy Policy'" = "《隐私政策》";
+"Agreement description" = "开始制作即代表同意《用户协议》和《隐私政策》";
+"Start Description" = "波普艺术是20世纪中期兴起的艺术运动，强调大众文化和消费社会，以明亮颜色、平面化图像和常见物品为特点，如安迪·沃霍尔的马赛克名人肖像和坎贝尔汤罐头。";
+"Album" = "导入照片";
+"Photo" = "拍照";
+"History" = "历史制作";
+"Deleted" = "垃圾箱";
+"History Description" = "记录导入或拍照上传识别的照片";
+"Deleted Description" = "最近30天删除的照片";
+"Saved all" = "保存全部";
+"Saved success!" = "保存成功!";
+"Camera Description" = "请使用清晰人脸照，不要遮挡面部或多人照。";
+"Delete title" = "彻底删除";
+"Delete description" = "删除后将不可恢复，确定删除吗？";
+"Cancel" = "取消";
+"Confirm" = "确定";
+"Days" = "天";
+"Camera alert" = "请在iPhone的“设置--隐私--相册”选项中，允许此App访问你的相册。";
+"Recover" = "恢复";
